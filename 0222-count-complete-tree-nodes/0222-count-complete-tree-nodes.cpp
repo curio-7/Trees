@@ -59,4 +59,7 @@ public:
     }
 };
 
-For a complete tree the height of binary tree is O(logN)
+// For a complete tree the height of binary tree is O(logN)
+// Go for everry subtree and find the no of nodes 2^n-1 krke 
+// then sum up every thing.
+    
