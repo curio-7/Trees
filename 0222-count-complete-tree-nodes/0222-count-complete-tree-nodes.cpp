@@ -58,3 +58,5 @@ public:
         //SC = O(logn)
     }
 };
+
+For a complete tree the height of binary tree is O(logN)
